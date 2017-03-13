@@ -33,7 +33,7 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 author:
   resume: /resume
   name: 蔚然鱼     #the name of Blog section
-  about_me: 我是蔚然鱼, 我是在上海的一名iOS 工程师. 这是我的主页和博客, 这个博客记录了我在程序开发中遇到的一些问题和经验。 如果有什么问题可以通过邮箱联系我。
+  about_me: 我是蔚然鱼, 我来自上海. 这是我的主页和博客, 这个博客记录了我在程序开发中遇到的一些问题和经验。 如果有什么问题可以通过邮箱联系我。
 # Social Links
 email:               irydev@gmail.com
 #google.plus:        username
