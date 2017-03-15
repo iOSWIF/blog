@@ -21,27 +21,27 @@ sass:
 
 # Comment
 comment:
-  disqus: shanhong 
-# youyan uid  
-  youyan: 2122392 
+  disqus: shanhong
+# youyan uid
+  youyan: 2122392
 
 # Website analytics
-google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
+# google_analytics: UA-82494501-1
+# baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
 
 # Author information:
 author:
   resume: /resume
-  name: 蔚然鱼     #the name of Blog section
-  about_me: 我是蔚然鱼, 我来自上海. 这是我的主页和博客, 这个博客记录了我在程序开发中遇到的一些问题和经验。 如果有什么问题可以通过邮箱联系我。
+  name: 闪红     #the name of Blog section
+  about_me:
 # Social Links
-email:               irydev@gmail.com
+email:
 #google.plus:        username
 #twitter:            username
 facebook:            flynnlovehan
 github:              Lovinhan
 stackoverflow:         #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           
+linkedin:
 #xing:              username
 #instagram:          username
 #lastfm:            username
